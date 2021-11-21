@@ -1,0 +1,8 @@
+
+Sınıfların özellikle veri elemanlarının gizlenmesine (yani diğer sınıflardan erişilememesine) nesne yönelimli
+ 	programlama tekniğinde "kapsülleme/sınıfsal temsil (encapsulation)" denir. Bu kavramın geneline
+ 	"veri/bilgi gizleme (data/information hiding)" denir. Burada temel amaç dışarıyı yani sınıf dışını ilgilendirmeyecek
+ 	verilerin/bilgilerin dışarıya verilmemesidir. Bu kavram gerçek hayattan programlamaya aktarılmıştır. 
+
+ 	Bu anlamda sınıfı yazan (server) ve sınıfı kullanan (client) bakış açısı farklıdır. Şüphesiz sınıfı yazan için
+ 	iki bakış açısını da düşünülmelidir. 
